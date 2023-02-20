@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+Counter for [ScreenAreaShare](https://github.com/mPyKen/ScreenAreaShare)
+
+[![Github All Releases](https://img.shields.io/github/downloads/mPyKen/ScreenAreaShare/total.svg)](https://github.com/mPyKen/ScreenAreaShare)
+
 <!--
 **mPyKen/mPyKen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
